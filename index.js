@@ -1,4 +1,4 @@
-//WeakZero MarkOne
+// WeakZero MarkOne
 
 const readlineSync = require('readline-sync');
 
@@ -10,14 +10,14 @@ function ask(question){
 
 const questions = [
 
-  {question: "Is my name tanay (yes / no)? ", answer:"no"},
-  {question: "Do i leave in the city Bnglore(yes / no)?", answer:"yes"},
-  {question: "Do i got any sorta pets (yes / no)? ", answer:"no"},
-  {question: "what about my girlFriends, do i have any (yes / no)? ", answer:"no"},
-  {question: "I'm i vegeterian (yes / no)? ", answer:"no"},
-  {question: "Topper in schools & colleges(yes / no)? ", answer:"no"},
-  {question: "Do i extremly hate PUBG (yes / no)? ", answer:"yes"},
-  {question: "You think i Love Cooking (yes / no)? ", answer:"yes"}
+  {question: "1. Is my name tanay (yes / no)? ", answer:"no"},
+  {question: "2. Do i leave in the city Bnglore(yes / no)?", answer:"yes"},
+  {question: "3. Do i got any sorta pets (yes / no)? ", answer:"no"},
+  {question: "4. what about my girlFriends, do i have any (yes / no)? ", answer:"no"},
+  {question: "5. I'm i vegeterian (yes / no)? ", answer:"no"},
+  {question: "6. Topper in schools & colleges(yes / no)? ", answer:"no"},
+  {question: "7. Do i extremly hate PUBG (yes / no)? ", answer:"yes"},
+  {question: "8. You think i Love Cooking (yes / no)? ", answer:"yes"}
 
 ]
 
@@ -31,4 +31,4 @@ for(var i=0; i < questions.length; i++){
   }
 }
 
-console.log(`Your Score is: ${score}`)
+console.log(`Your Score is: ${score} out of 8`)
