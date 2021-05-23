@@ -15,9 +15,9 @@ const questions = [
   {question: "Do i got any sorta pets (yes / no)? ", answer:"no"},
   {question: "what about my girlFriends, do i have any (yes / no)? ", answer:"no"},
   {question: "I'm i vegeterian (yes / no)? ", answer:"no"},
-  {question: "Topper in schools & colleges(yes / no)? ", answer:"no"}
+  {question: "Topper in schools & colleges(yes / no)? ", answer:"no"},
   {question: "Do i extremly hate PUBG (yes / no)? ", answer:"yes"},
-  {question: "You think i Love Cooking (yes / no)? ", answer:"yes"},
+  {question: "You think i Love Cooking (yes / no)? ", answer:"yes"}
 
 ]
 
