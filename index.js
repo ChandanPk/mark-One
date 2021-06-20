@@ -10,7 +10,7 @@ function ask(question){
 
 const questions = [
 
-  {question: "1. Is my name tanay (yes / no)? ", answer:"no"},
+  {question: "1. Is my name chandan (yes / no)? ", answer:"no"},
   {question: "2. Do i leave in the city Bnglore(yes / no)?", answer:"yes"},
   {question: "3. Do i got any sorta pets (yes / no)? ", answer:"no"},
   {question: "4. what about my girlFriends, do i have any (yes / no)? ", answer:"no"},
