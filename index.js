@@ -21,7 +21,7 @@ const questions = [
 
 ]
 
-console.log("How well do you know me, lets see..")
+console.log("--> How well do you know me ?, let's find out. <--\n")
 
 for(var i=0; i < questions.length; i++){
   let userAnswer = ask(questions[i].question);
